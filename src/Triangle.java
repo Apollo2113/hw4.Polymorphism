@@ -1,14 +1,14 @@
 public class Triangle implements GeometricFigure {
 
-    private double widht;
+    private double width;
     private double height;
 
-    public Triangle(double widht, double height) {
-        this.widht = widht;
+    public Triangle(double width, double height) {
+        this.width = width;
         this.height = height;
     }
 
     public double getArea() {
-        return 0.5 * widht * height;
+        return 0.5 * width * height;
     }
 }
