@@ -1,3 +1,5 @@
+package Figure;
+
 public class Circle implements GeometricFigure  {
     private double radius;
 

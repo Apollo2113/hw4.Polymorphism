@@ -1,3 +1,5 @@
+package Figure;
+
 public class Triangle implements GeometricFigure {
 
     private double width;

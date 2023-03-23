@@ -1,3 +1,5 @@
+package Figure;
+
 public class Square implements GeometricFigure {
     private double width;
     private double height;
